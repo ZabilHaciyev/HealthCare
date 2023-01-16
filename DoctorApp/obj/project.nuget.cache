@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "1w58REopdkPdQIZea3tz0UmbC/r5XuHkwv/nCRsAA+PwoQq2x8ZPh49dCFsiqixk5DBBnHjj5C+5A7czN5qD4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zabil\\Documents\\GitHub\\FSDE_2912_az_WPF_Exam_Team1\\DoctorApp\\DoctorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zabil\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\mvvmlightlibsstd10\\5.4.1.1\\mvvmlightlibsstd10.5.4.1.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.data.wpf\\18.4.0.33\\syncfusion.data.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.licensing\\18.4.0.33\\syncfusion.licensing.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfgrid.wpf\\18.4.0.33\\syncfusion.sfgrid.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfinput.wpf\\18.4.0.33\\syncfusion.sfinput.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfshared.wpf\\18.4.0.33\\syncfusion.sfshared.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.shared.wpf\\18.4.0.33\\syncfusion.shared.wpf.18.4.0.33.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

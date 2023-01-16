@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "kz60ad8fVPxE+YzxeruULk5JwpdB1vKBxRqjJbnbNbbuuitDaz0Y6EJQARr4s+qtfuAcPHCzc6DmWWdlEH5ZrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zabil\\Desktop\\portfolio\\HealtCare\\ReceptionApp\\ReceptionApp\\ReceptionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zabil\\.nuget\\packages\\fluentvalidation\\9.3.0\\fluentvalidation.9.3.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\fody\\6.3.0\\fody.6.3.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\materialdesigncolors\\1.2.7\\materialdesigncolors.1.2.7.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\materialdesignthemes\\3.2.0\\materialdesignthemes.3.2.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\propertychanged.fody\\3.3.1\\propertychanged.fody.3.3.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\simpleinjector\\5.2.0\\simpleinjector.5.2.0.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.licensing\\18.4.0.31\\syncfusion.licensing.18.4.0.31.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfinput.wpf\\18.4.0.31\\syncfusion.sfinput.wpf.18.4.0.31.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\syncfusion.sfshared.wpf\\18.4.0.31\\syncfusion.sfshared.wpf.18.4.0.31.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\system.componentmodel\\4.0.1\\system.componentmodel.4.0.1.nupkg.sha512",
+    "C:\\Users\\zabil\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
